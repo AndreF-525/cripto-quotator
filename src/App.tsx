@@ -1,3 +1,4 @@
+import SearchForm from "./components/SearchForm"
 
 function App() {
 
@@ -9,7 +10,7 @@ function App() {
         </h1>
 
         <div className="content">
-
+          <SearchForm />
         </div>
       </div>
     </>
