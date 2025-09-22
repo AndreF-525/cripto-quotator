@@ -8,7 +8,5 @@ export const currencies : Currency[] = [
   { code: 'BRL', name: 'Real Brasileño'},
   { code: 'CAD', name: 'Dolar Canadiense'},
   { code: 'COP', name: 'Peso Colombiano'},
-  { code: 'GTQ', name: 'Quetzal'},
-  { code: 'VEF', name: 'Bolivar'},
   { code: 'ARS', name: 'Peso Argentino'},
 ]
