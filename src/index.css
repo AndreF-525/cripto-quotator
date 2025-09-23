@@ -97,3 +97,12 @@ body {
 .result img {
   width: 100%;
 }
+
+.result p {
+  margin: 0 0 1rem;
+  font-size: 1.6rem;
+}
+
+.result span {
+  font-weight: 700;
+}
